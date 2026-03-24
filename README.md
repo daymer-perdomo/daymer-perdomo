@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Soy un ingeniero con más de 5 años de experiencia desarrollando sistemas que integran hardware, firmware y software de alto nivel. Mi trabajo abarca desde el diseño de PCBs y programación de microcontroladores hasta aplicaciones móviles con Flutter e integraciones con inteligencia artificial.
+Soy un Developer con más de 5 años de experiencia desarrollando sistemas que integran hardware, firmware y software de alto nivel. Mi trabajo abarca desde el diseño de PCBs y programación de microcontroladores hasta aplicaciones móviles con Flutter e integraciones con inteligencia artificial.
 
 Trabajo de forma independiente con equipos de distintos países, entregando proyectos completos en IoT, automatización industrial y desarrollo de software para sectores como LegalTech.
 
