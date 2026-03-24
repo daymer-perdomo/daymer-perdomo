@@ -1,7 +1,7 @@
 <div align="center">
 
 # Daymer Perdomo Molina
-### Embedded Systems Engineer · IoT · Flutter · AI Integration
+### Embedded Systems Developer· IoT · Flutter · AI Integration
 
 *Construyo soluciones donde el hardware y el software se encuentran*
 
