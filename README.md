@@ -1,69 +1,102 @@
-<!--
-<h2 align="center">
-  WELCOME TO THE DAYMER WORKSPACE!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<div align="center">
 
-<!--
-<p align="center">
-  <a href="https://github.com/Daimer003"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+# Daymer Perdomo Molina
+### Embedded Systems Engineer · IoT · Flutter · AI Integration
 
- -->
+*Construyo soluciones donde el hardware y el software se encuentran*
 
-<a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daymer_Perdomo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/)
+[![Web](https://img.shields.io/badge/Web-daymer.dev-111827?style=flat-square&logo=globe&logoColor=white)](https://daymer.dev/)
+[![LegalTech](https://img.shields.io/badge/Proyecto-Centra_LegalTech-1D9E75?style=flat-square)](https://www.centralegaltech.com/)
+[![Location](https://img.shields.io/badge/Medell%C3%ADn-Colombia-FF6B35?style=flat-square)]()
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Daymer Perdomo</a></b>
-        </samp>
-</h3>
+</div>
 
+---
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.partneo.io/" target="_blank">「 Partneo 」</a>
-    <br>
-    「 I am a web application developer. 」
-    <br>
-    <br>
-  </samp>
-</p>
+## Sobre mí
 
-<p align="center">
- <a href="https://daymer.dev/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
+Soy un ingeniero con más de 5 años de experiencia desarrollando sistemas que integran hardware, firmware y software de alto nivel. Mi trabajo abarca desde el diseño de PCBs y programación de microcontroladores hasta aplicaciones móviles con Flutter e integraciones con inteligencia artificial.
 
-</p>
-<br />
+Trabajo de forma independiente con equipos de distintos países, entregando proyectos completos en IoT, automatización industrial y desarrollo de software para sectores como LegalTech.
 
+---
 
-## Use To Code
+## Stack técnico
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Hardware & Embebidos
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+### Diseño de PCB
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+
+### IoT & Protocolos
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square)
+![LoRa](https://img.shields.io/badge/LoRa-0096FF?style=flat-square)
+![WiFi](https://img.shields.io/badge/WiFi-00BFFF?style=flat-square)
+![I2C/SPI](https://img.shields.io/badge/I2C%20·%20SPI%20·%20UART-555555?style=flat-square)
+
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### Inteligencia Artificial
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF6B35?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI_Automation-1D9E75?style=flat-square)
+
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🏛️ **Centra LegalTech** | Plataforma legal con datos en tiempo real e integración de IA para profesionales del derecho | Python · IA · APIs |
+| ⚡ **Pow Fenix** | Sistema de automatización del procesamiento de archivos XML financieros | TypeScript |
+| 👨‍💻 **Dev CV** | Generador de CVs para desarrolladores | Astro |
+
+---
+
+## Áreas de trabajo
+
+```
+IoT End-to-End          ████████████████████  Diseño · Firmware · Backend · App
+PCB Design              ███████████████░░░░░  KiCad · Altium · Prototipado
+Flutter / Mobile        ████████████████░░░░  Android · iOS · Multiplataforma
+Integración con IA      █████████████░░░░░░░  LLMs · Automatización · APIs
+Automatización          ████████████████████  Industrial · Scripts · Workflows
+```
+
+---
+
+## Contacto
+
+¿Tienes un proyecto en IoT, firmware, automatización o desarrollo de software con IA?
+
+📬 **[daymer.dev](https://daymer.dev/)** · **[LinkedIn](https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/)** · **[Centra LegalTech](https://www.centralegaltech.com/)**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daimer003&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimer003&layout=compact&hide_border=true&theme=default" height="130" />
+</div>
