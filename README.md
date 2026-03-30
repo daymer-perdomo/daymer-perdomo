@@ -6,7 +6,6 @@
 *Construyo soluciones donde el hardware y el software se encuentran*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daymer_Perdomo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/)
-[![Web](https://img.shields.io/badge/Web-daymer.dev-111827?style=flat-square&logo=globe&logoColor=white)](https://daymer.dev/)
 [![LegalTech](https://img.shields.io/badge/Proyecto-Centra_LegalTech-1D9E75?style=flat-square)](https://www.centralegaltech.com/)
 [![Location](https://img.shields.io/badge/Medell%C3%ADn-Colombia-FF6B35?style=flat-square)]()
 
