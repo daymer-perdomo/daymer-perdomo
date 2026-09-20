@@ -90,7 +90,7 @@ Automatización          ██████████████████�
 
 ¿Tienes un proyecto en IoT, firmware, automatización o desarrollo de software con IA?
 
-📬 **[daymer.dev](https://daymer.dev/)** · **[LinkedIn](https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/)** · **[Centra LegalTech](https://www.centralegaltech.com/)**
+📬 **[daymer.dev](https://daymer.dev/)** · **[LinkedIn](https://www.linkedin.com/in/daymer-perdomo-5aa0a5137/)** 
 
 ---
 
